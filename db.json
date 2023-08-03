@@ -44,6 +44,21 @@
       "email": "yugil3150@naver.com",
       "password": "11111111",
       "id": 14
+    },
+    {
+      "email": "test@naver.com",
+      "password": "11111111",
+      "id": 15
+    },
+    {
+      "email": "yugil3150@naver.com",
+      "password": "11111111",
+      "id": 16
+    },
+    {
+      "email": "test@naver.com",
+      "password": "11111111",
+      "id": 17
     }
   ],
   "boards": [
