@@ -39,6 +39,11 @@
       "email": "asdf",
       "password": "123",
       "id": 8
+    },
+    {
+      "email": "yugil3150@naver.com",
+      "password": "11111111",
+      "id": 14
     }
   ],
   "boards": [
@@ -95,6 +100,16 @@
       "contents": "asdfasdf",
       "isDeleted": false,
       "id": 9
+    },
+    {
+      "contents": "안녕하세요",
+      "isDeleted": false,
+      "id": 10
+    },
+    {
+      "contents": "두번째 테스트",
+      "isDeleted": false,
+      "id": 11
     }
   ]
 }
